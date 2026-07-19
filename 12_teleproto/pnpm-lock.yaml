@@ -12,8 +12,8 @@ importers:
         specifier: ^8.0.0
         version: 8.2.0
       teleproto:
-        specifier: ^1.228.0
-        version: 1.228.0
+        specifier: ^1.228.4
+        version: 1.228.4
     devDependencies:
       '@types/node':
         specifier: ^24.0.7
@@ -66,8 +66,8 @@ packages:
   store2@2.14.4:
     resolution: {integrity: sha512-srTItn1GOvyvOycgxjAnPA63FZNwy0PTyUBFMHRM+hVFltAeoh0LmNBz9SZqUS9mMqGk8rfyWyXn3GH5ReJ8Zw==}
 
-  teleproto@1.228.0:
-    resolution: {integrity: sha512-nHpoWLuzbGWiv3HReOfVA0Qxv9kq+Vp6ENsyBeqDRLcOy+4nHet3I36d+slkhmAAXURDZbHX+Ud8OaQZgcyPsQ==}
+  teleproto@1.228.4:
+    resolution: {integrity: sha512-SgBC18pHbFCxAEZZZ3GZVMfZEbwd8k6yVR2a2mGPLYOIz7PVZ/vpVKeDZ0xntAtMRBUkrfJXC5IGq/PO+dU/BQ==}
 
   tslib@2.8.1:
     resolution: {integrity: sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==}
@@ -113,7 +113,7 @@ snapshots:
 
   store2@2.14.4: {}
 
-  teleproto@1.228.0:
+  teleproto@1.228.4:
     dependencies:
       big-integer: 1.6.52
       mime: 3.0.0
